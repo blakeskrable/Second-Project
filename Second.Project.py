@@ -94,8 +94,6 @@ while 1==1:
         time.sleep(2)
         print("Please type the number corresponding to the operation you would like to use (1-4).")
         time.sleep(2)
-        function1 = int(input("Your Answer: "))
-        function1
     elif function1 == 1:
         print("You have chosen addition.")
         time.sleep(1)
